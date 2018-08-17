@@ -20,5 +20,5 @@
     <#include "/templates/web/common/alerts.ftl" />
   </#if>
   <a class="header-menu-toggle" href="#"><span>Menu</span></a>    	
-
+  <script src="/static-assets/js/alert.js"></script>
 </header> <!-- /header -->
