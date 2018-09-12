@@ -59,10 +59,10 @@ try {
   
   if(proxyRequestUri.contains("?")) {
 	  proxyRequestUri = proxyRequestUri.replace("?",".json?")
-      proxyRequestUri = proxyRequestUri += "&crafterSite=flow"
+      proxyRequestUri = proxyRequestUri += "&crafterSite="+siteContext.siteName
   }
   else {
-	  proxyRequestUri = proxyRequestUri += ".json?crafterSite=flow"
+	  proxyRequestUri = proxyRequestUri += ".json?crafterSite="+siteContext.siteName
   }
 
 logger.info("REVERSE PROXING TO : ${proxyRequestUri}")
