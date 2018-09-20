@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/plugins/rich-text/rich-text</content-type>	<display-template>/templates/plugins/rich-text/component-rich-text.ftl</display-template>
+	<objectGroupId>41bc</objectGroupId>
+	<objectId>41bc52f1-a1e0-ba88-61fc-ed5aba58a9d0</objectId>
+	<file-name>41bc52f1-a1e0-ba88-61fc-ed5aba58a9d0.xml</file-name>
+	<internal-name/>
+	<content_html>&lt;h1&gt;&lt;span&gt;Spicy jalapeno bacon ipsum &lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span&gt;dolor amet cow ham pork brisket. Beef meatloaf meatball doner, jowl tenderloin sirloin burgdoggen turkey prosciutto shoulder. Shank leberkas flank kielbasa, ball tip ham hock porchetta pork meatball rump tongue capicola cow short loin cupim. Kielbasa pork belly leberkas, swine turducken jowl pork t-bone pancetta andouille kevin jerky. Tenderloin filet mignon chicken, strip steak capicola bacon brisket sausage biltong ribeye pork loin kevin. Beef bacon pastrami sausage, boudin pig kevin pork loin sirloin jowl short loin strip steak t-bone landjaeger. Chicken leberkas buffalo ground round pancetta pastrami pig landjaeger spare ribs alcatra chuck ham hock corned beef andouille meatball.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2018-09-20T15:29:10.777Z</createdDate>
+	<createdDate_dt>2018-09-20T15:29:10.777Z</createdDate_dt>
+	<lastModifiedDate>2018-09-20T15:29:10.777Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-09-20T15:29:10.777Z</lastModifiedDate_dt>
+</component>
