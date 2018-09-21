@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/plugins/rich-text/rich-text</content-type>	<display-template>/templates/plugins/rich-text/component-rich-text.ftl</display-template>
+	<objectGroupId>b979</objectGroupId>
+	<objectId>b9794104-b8d7-b694-f260-5de999f6d523</objectId>
+	<file-name>b9794104-b8d7-b694-f260-5de999f6d523.xml</file-name>
+	<internal-name>Training</internal-name>
+	<content_html>&lt;h1&gt;&lt;span&gt;Spicy jalapeno bacon ipsum&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span&gt; dolor amet jowl capicola beef ribs shank filet mignon short ribs, jerky landjaeger shoulder short loin hamburger. Pancetta picanha andouille, shoulder tail short loin hamburger filet mignon jerky ground round boudin turkey. Biltong beef ribs pastrami prosciutto corned beef ground round. Sirloin prosciutto kevin, hamburger cupim drumstick t-bone shank shankle fatback pig biltong capicola. Tri-tip pork doner, ribeye tail biltong t-bone hamburger kevin meatloaf pork chop. Venison ground round ball tip bacon prosciutto brisket turkey pork belly pancetta rump chuck.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2018-09-21T01:31:35.033Z</createdDate>
+	<createdDate_dt>2018-09-21T01:31:35.033Z</createdDate_dt>
+	<lastModifiedDate>2018-09-21T01:31:35.033Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-09-21T01:31:35.033Z</lastModifiedDate_dt>
+</component>
