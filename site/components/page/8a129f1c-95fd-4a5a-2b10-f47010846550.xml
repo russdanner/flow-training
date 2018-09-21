@@ -7,7 +7,10 @@
 	<file-name>8a129f1c-95fd-4a5a-2b10-f47010846550.xml</file-name>
 	<sectionID>content</sectionID>
 	<zone1 item-list="true"/>
-	<zone2 item-list="true"/>
+	<zone2 item-list="true">	<item>	<value>Training</value>
+	<key>/site/components/page/b9794104-b8d7-b694-f260-5de999f6d523.xml</key>
+	<include>/site/components/page/b9794104-b8d7-b694-f260-5de999f6d523.xml</include>
+	</item></zone2>
 	<createdDate>2018-09-21T01:30:56.480Z</createdDate>
 	<createdDate_dt>2018-09-21T01:30:56.480Z</createdDate_dt>
 	<lastModifiedDate>2018-09-21T01:30:56.480Z</lastModifiedDate>
