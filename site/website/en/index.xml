@@ -20,5 +20,8 @@
 	<col1 item-list="true">	<item>	<value>/site/components/page/24eb7cfe-add4-d3ed-0703-60ff4cedde70.xml</value>
 	<key>/site/components/page/24eb7cfe-add4-d3ed-0703-60ff4cedde70.xml</key>
 	<include>/site/components/page/24eb7cfe-add4-d3ed-0703-60ff4cedde70.xml</include>
+	</item>	<item>	<value>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</value>
+	<key>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</key>
+	<include>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</include>
 	</item></col1>
 </page>
