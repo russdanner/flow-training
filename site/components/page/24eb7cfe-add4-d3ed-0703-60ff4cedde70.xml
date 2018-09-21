@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/plugins/bootstrap-layouts/2-col</content-type>	<display-template>/templates/plugins/bootstrap-layouts/component-2-col.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>24eb</objectGroupId>
+	<objectId>24eb7cfe-add4-d3ed-0703-60ff4cedde70</objectId>
+	<file-name>24eb7cfe-add4-d3ed-0703-60ff4cedde70.xml</file-name>
+	<sectionID>content</sectionID>
+	<zone1 item-list="true"/>
+	<zone2 item-list="true"/>
+	<createdDate>2018-09-21T01:30:33.051Z</createdDate>
+	<createdDate_dt>2018-09-21T01:30:33.051Z</createdDate_dt>
+	<lastModifiedDate>2018-09-21T01:30:33.051Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-09-21T01:30:33.051Z</lastModifiedDate_dt>
+</component>
