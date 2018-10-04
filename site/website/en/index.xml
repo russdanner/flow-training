@@ -12,19 +12,22 @@
 	<folder-name>en</folder-name>
 	<createdDate>1/31/2017 16:18:14</createdDate>
 	<createdDate_dt>1/31/2017 16:18:14</createdDate_dt>
-	<lastModifiedDate>2018-09-20T15:26:33.815Z</lastModifiedDate>
-	<lastModifiedDate_dt>2018-09-20T15:26:33.815Z</lastModifiedDate_dt>
+	<lastModifiedDate>2018-10-04T03:02:54.910Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-10-04T03:02:54.910Z</lastModifiedDate_dt>
 	<disabled>false</disabled>
-	<headline>A Very Modern design</headline>
-	<subHeadline>Super Creative Landing Page to Showcase Your Amazing App</subHeadline>
+	<headline>A Modern design</headline>
+	<subHeadline>Creative Landing Page to Showcase Your Amazing App</subHeadline>
 	<col1 item-list="true">	<item>	<value>/site/components/page/24eb7cfe-add4-d3ed-0703-60ff4cedde70.xml</value>
 	<key>/site/components/page/24eb7cfe-add4-d3ed-0703-60ff4cedde70.xml</key>
 	<include>/site/components/page/24eb7cfe-add4-d3ed-0703-60ff4cedde70.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item>	<item>	<value>Training</value>
 	<key>/site/components/page/b9794104-b8d7-b694-f260-5de999f6d523.xml</key>
 	<include>/site/components/page/b9794104-b8d7-b694-f260-5de999f6d523.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item>	<item>	<value>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</value>
 	<key>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</key>
 	<include>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></col1>
 </page>
