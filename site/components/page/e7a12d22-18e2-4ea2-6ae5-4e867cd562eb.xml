@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/remotearticles</content-type>	<display-template>/templates/web/component-remote-article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e7a1</objectGroupId>
+	<objectId>e7a12d22-18e2-4ea2-6ae5-4e867cd562eb</objectId>
+	<file-name>e7a12d22-18e2-4ea2-6ae5-4e867cd562eb.xml</file-name>
+	<siteID>editorial</siteID>
+	<createdDate>2018-10-04T13:13:20.038Z</createdDate>
+	<createdDate_dt>2018-10-04T13:13:20.038Z</createdDate_dt>
+	<lastModifiedDate>2018-10-04T13:13:20.038Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-10-04T13:13:20.038Z</lastModifiedDate_dt>
+</component>
