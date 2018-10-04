@@ -12,8 +12,10 @@ def siteId = contentModel.siteID.text
 def externalServiceHost = "http://localhost:8080"
 def externalServiceURI = "/api/search.json?crafterSite=editorial&userTerm=ipsum&categories%5B%5D=style"
 def externalServiceURL = externalServiceHost + externalServiceURI
-
 def http = new HTTPBuilder()
+
+templateModel.host = externalServiceHost
+templateModel.siteID = siteId
 
 http.request( externalServiceURL, Method.GET, ContentType.JSON ) { req ->
     headers.Accept = 'application/json'
