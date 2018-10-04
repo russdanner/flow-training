@@ -3,6 +3,6 @@
 
   <h1>Featured Articles</h1>
   <#list articles as article>
-   		<h2><a href="/studio/preview/#/?page=${article.url}&site=${siteID}" target="new">${article.title}</a></h2>
+   		<h3>[<a href="/studio/preview/#/?page=${article.url}&site=${siteID}" target="new">${article.title}</a>]</h3>
   </#list>
 </div>
