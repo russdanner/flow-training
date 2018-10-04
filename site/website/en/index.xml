@@ -17,11 +17,7 @@
 	<disabled>false</disabled>
 	<headline>A Modern design</headline>
 	<subHeadline>Creative Landing Page to Showcase Your Amazing App</subHeadline>
-	<col1 item-list="true">	<item>	<value>Training</value>
-	<key>/site/components/page/b9794104-b8d7-b694-f260-5de999f6d523.xml</key>
-	<include>/site/components/page/b9794104-b8d7-b694-f260-5de999f6d523.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item>	<value>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</value>
+	<col1 item-list="true">	<item>	<value>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</value>
 	<key>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</key>
 	<include>/site/components/page/8a129f1c-95fd-4a5a-2b10-f47010846550.xml</include>
 	<disableFlattening>false</disableFlattening>
