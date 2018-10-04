@@ -8,9 +8,10 @@ import groovyx.net.http.Method
 import groovyx.net.http.ContentType
 
 def siteId = contentModel.siteID.text
+def category = contentModel.topic.item[0].key.text
 
 def externalServiceHost = "http://localhost:8080"
-def externalServiceURI = "/api/search.json?crafterSite=editorial&userTerm=ipsum&categories%5B%5D=style"
+def externalServiceURI = "/api/search.json?crafterSite=editorial&userTerm=ipsum&categories%5B%5D="+category
 def externalServiceURL = externalServiceHost + externalServiceURI
 def http = new HTTPBuilder()
 
