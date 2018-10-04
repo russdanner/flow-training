@@ -32,6 +32,11 @@
 <type>/plugins/rss-feed/rss-feed</type>
 <path>/site/components/page</path>
 </component>
+<component>
+<label>Remote Articles</label>
+<type>/component/remotearticles</type>
+<path>/site/components/page</path>
+</component>
 
 
 </category>
@@ -65,11 +70,6 @@
 </component>
 </category>
 
-<component>
-<label>Remote Articles</label>
-<type>/component/remotearticles</type>
-<path>/site/components/page</path>
-</component>
 
 
 
