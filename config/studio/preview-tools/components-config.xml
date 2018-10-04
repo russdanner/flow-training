@@ -65,7 +65,11 @@
 </component>
 </category>
 
-
+<component>
+<label>Remote Articles</label>
+<type>/component/remotearticles</type>
+<path>/site/components/page</path>
+</component>
 
 
 
