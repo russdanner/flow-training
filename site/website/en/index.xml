@@ -17,8 +17,5 @@
 	<disabled>false</disabled>
 	<headline>A Modern design</headline>
 	<subHeadline>Creative Landing Page to Showcase Your Amazing App</subHeadline>
-	<col1 item-list="true">	<item>	<value>/site/components/page/88498078-d706-6611-48a0-af373e45a30a.xml</value>
-	<key>/site/components/page/88498078-d706-6611-48a0-af373e45a30a.xml</key>
-	<include>/site/components/page/88498078-d706-6611-48a0-af373e45a30a.xml</include>
-	</item></col1>
+	<col1 item-list="true"/>
 </page>
