@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/remotearticles</content-type>	<display-template>/templates/web/component-remote-article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8849</objectGroupId>
+	<objectId>88498078-d706-6611-48a0-af373e45a30a</objectId>
+	<file-name>88498078-d706-6611-48a0-af373e45a30a.xml</file-name>
+	<siteID>editorial</siteID>
+	<topic>	<item>	<key>style</key>
+	<value>style</value>
+	</item></topic>
+	<createdDate>2018-10-04T14:11:59.886Z</createdDate>
+	<createdDate_dt>2018-10-04T14:11:59.886Z</createdDate_dt>
+	<lastModifiedDate>2018-10-04T14:11:59.886Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-10-04T14:11:59.886Z</lastModifiedDate_dt>
+</component>
