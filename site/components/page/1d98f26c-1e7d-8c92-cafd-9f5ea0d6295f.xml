@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/plugins/rich-text/rich-text</content-type>	<display-template>/templates/plugins/rich-text/component-rich-text.ftl</display-template>
+	<objectGroupId>1d98</objectGroupId>
+	<objectId>1d98f26c-1e7d-8c92-cafd-9f5ea0d6295f</objectId>
+	<file-name>1d98f26c-1e7d-8c92-cafd-9f5ea0d6295f.xml</file-name>
+	<internal-name/>
+	<content_html>&lt;h1&gt;&lt;span&gt;Spicy jalapeno bacon &lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span&gt;ipsum dolor amet jowl ball tip bacon, porchetta frankfurter cow spare ribs landjaeger turkey. Burgdoggen drumstick shoulder swine ham sausage pastrami tri-tip short ribs kevin prosciutto. Pig pork loin jerky, jowl capicola swine fatback kevin drumstick meatloaf tongue short ribs shankle. Short loin pork belly shoulder jerky, bresaola ground round biltong pancetta ribeye pastrami sausage pork loin. Short loin prosciutto meatball, ground round corned beef kevin flank tri-tip pork porchetta pork belly alcatra. Cow strip steak landjaeger brisket sirloin beef ribs pork belly ground round chuck chicken pork.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2018-10-10T19:59:30.864Z</createdDate>
+	<createdDate_dt>2018-10-10T19:59:30.864Z</createdDate_dt>
+	<lastModifiedDate>2018-10-10T19:59:30.864Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-10-10T19:59:30.864Z</lastModifiedDate_dt>
+</component>
