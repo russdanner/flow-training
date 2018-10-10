@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/article</content-type>	<display-template>/templates/web/article.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8771</objectGroupId>
+	<objectId>877176fe-e777-c057-6060-5be2f02d933a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>jersey-city</folder-name>
+	<internal-name>Demo Page</internal-name>
+	<navLabel>My Demo Page</navLabel>
+	<authorName>Russ</authorName>
+	<authorPosition/>
+	<title>My Demo</title>
+	<disabled>false</disabled>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>6000</orderDefault_f>
+	<keywords>Article</keywords>
+	<authorImage>/static-assets/images/authors/user-04.jpg</authorImage>
+	<bodyContent>&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a consectetur lacus. Ut iaculis quis magna id lacinia. Duis luctus vulputate dolor sed placerat. Sed dictum enim vel gravida maximus. Donec gravida lectus magna, id pharetra ante luctus vel.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a consectetur lacus. Ut iaculis quis magna id lacinia. Duis luctus vulputate dolor sed placerat. Sed dictum enim vel gravida maximus. Donec gravida lectus magna, id pharetra ante luctus vel.&lt;/p&gt;
+&lt;h3&gt;&amp;nbsp;&lt;/h3&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a consectetur lacus. Ut iaculis quis magna id lacinia. Duis luctus vulputate dolor sed placerat. Sed dictum enim vel gravida maximus. Donec gravida lectus magna, id pharetra ante luctus vel.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;rdquo;&amp;nbsp;&amp;nbsp; &amp;lsquo;&amp;rsquo;&amp;nbsp;&amp;nbsp; "&amp;nbsp;&amp;nbsp; &amp;copy;&amp;nbsp;&amp;nbsp; &amp;mdash;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bold&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Italic&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="text-decoration: underline;"&gt;Underline&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="text-decoration: line-through;"&gt;Strike&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Style&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Item 1&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;li&gt;Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Item 1&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;li&gt;Item 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table border="1" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td width="117" valign="top"&gt;
+&lt;p&gt;&lt;b&gt;Header 1&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="117" valign="top"&gt;
+&lt;p&gt;&lt;b&gt;Header 2&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="117" valign="top"&gt;
+&lt;p&gt;&lt;b&gt;Header 3&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="117" valign="top"&gt;
+&lt;p&gt;&lt;b&gt;text&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="117" valign="top"&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="117" valign="top"&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="117" valign="top"&gt;
+&lt;p&gt;&lt;b&gt;text&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="117" valign="top"&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="117" valign="top"&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</bodyContent>
+	<createdDate>2018-10-10T20:35:22.721Z</createdDate>
+	<createdDate_dt>2018-10-10T20:35:22.721Z</createdDate_dt>
+	<lastModifiedDate>2018-10-10T20:35:22.721Z</lastModifiedDate>
+	<lastModifiedDate_dt>2018-10-10T20:35:22.721Z</lastModifiedDate_dt>
+	<expireDate_dt>2018-10-10T20:35:22.000Z</expireDate_dt>
+</page>
