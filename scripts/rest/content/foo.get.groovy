@@ -4,7 +4,7 @@ def cart = [:]
 cart.name = (params.name) ? params.name : "default"
 cart.itemCount = 100 + 50
 
-cart.goods =  [ "Starfruit", "Oranges", "Grapes", "Peaches", "Plums", "Apples", "Nuts" ]
+cart.goods =  [ "Starfruit", "Oranges", "Grapes", "Peaches", "Plums", "Apples", "Nuts", "Figs" ]
 
 cart.myContent = [:]
 cart.myContent.headline = siteItemService.getSiteItem("/site/website/en/index.xml").queryValue("headline")
